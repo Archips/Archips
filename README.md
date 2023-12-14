@@ -1,6 +1,6 @@
 ## 🦖 About Me
 
-Hello, I'm Archibald, a software developer, and security enthusiast. 
+Hello, I'm Archi, a software developer, and security enthusiast. 
 
 ## 🛠️ Skills
 
