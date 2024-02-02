@@ -16,11 +16,11 @@ Hello, I'm Archi, a software developer, and security enthusiast.
 
 ## Contact
 
-🥷🏻 [TryHackMe](https://tryhackme.com/p/archips) profile:
+🥷🏻 TryHackMe profile:
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/archips.png)
+[TryHackMe](https://tryhackme.com/p/archips)
 
-🏆 Visit my codingame profile:
+🏆 Codingame profile:
 
 [Codingame](https://www.codingame.com/profile/db2cba63d245e68503b6d91d0080b23a3588383)
 
